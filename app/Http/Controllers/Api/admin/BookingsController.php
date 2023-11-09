@@ -63,12 +63,7 @@ class BookingsController extends Controller
         
         $car->status = 'en location';
         $car->save();
-        }
 
-
-
-        $booking->status = $request->status;
-        $booking->save();
         $transaction = Transactions::create([
             "trasaction_date"=>date('Y-m-d'),
             "trasaction_type"=>"Location",
@@ -76,6 +71,13 @@ class BookingsController extends Controller
             "trasation_description"=>"Location du vehicule ".$car->brand,
             "trasaction_category"=>"Révenu",
         ]);
+        }
+
+
+
+        $booking->status = $request->status;
+        $booking->save();
+   
         $this->sendEmail($booking);
 
         return response()->json(['success'=>'change success'],200) ;

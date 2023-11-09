@@ -3,11 +3,11 @@
     <div class="container-fluid py-5">
         <div class="container pt-5 pb-3">
             <h1 class="display-1 text-warning text-center">01</h1>
-            <h1 class="display-4 text-uppercase text-center mb-5">bienvenue chez <span class="text-warning">ac transport</span></h1>
+            <h1 class="display-4 text-uppercase text-center mb-5">bienvenue chez <span class="text-warning">X transport</span></h1>
             <div class="row justify-content-center">
                 <div class="col-lg-10 text-center">
                     <img class="w-75 mb-4" src="img/about.png" alt="">
-                    <p>Située à Abidjan (Côte d'ivoire), AC-TRANSPORT est une startup spécialisée dans la vente, la location de véhicule et le transport des marchandise, design & marketing digital.Constituée d'une équipe dynamique et competente prêt à satisfait vos besoins,nous vous offrons nos services de qualités en un temps record.</p>
+                    <p>Située à Abidjan (Côte d'ivoire), X est une startup spécialisée dans la vente, la location de véhicule et le transport des marchandise, design & marketing digital.Constituée d'une équipe dynamique et competente prêt à satisfait vos besoins,nous vous offrons nos services de qualités en un temps record.</p>
                 </div>
             </div>
             <div class="row mt-3">

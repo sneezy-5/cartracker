@@ -17,7 +17,7 @@ class TransactionController extends Controller
     {
         $perPage = 5;
         $count = Transactions::count();
-        $cars = Transactions::paginate($perPage);
+        $cars = Transactions::orderBy('id','desc')->paginate($perPage);
 
 
         return response()->json([

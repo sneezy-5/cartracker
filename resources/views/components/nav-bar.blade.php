@@ -9,9 +9,9 @@
         <div class="row">
             <div class="col-md-6 text-center text-lg-left mb-2 mb-lg-0">
                 <div class="d-inline-flex align-items-center " >
-                    <a class="text-body pr-3 cl-topstart" href=""><i class="fa fa-phone-alt mr-2 cl-topstart" ></i>+225 07 09 60 61 70</a>
+                    <a class="text-body pr-3 cl-topstart" href=""><i class="fa fa-phone-alt mr-2 cl-topstart" ></i>+225 0000000</a>
                     <span class="text-body">|</span>
-                    <a class="text-body px-3 cl-topstart" href=""><i class="fa fa-envelope mr-2"></i>contact@ac-transports.net</a>
+                    <a class="text-body px-3 cl-topstart" href=""><i class="fa fa-envelope mr-2"></i>contact@X-transports.net</a>
                 </div>
             </div>
             <div class="col-md-6 text-center text-lg-right">
@@ -43,7 +43,7 @@
     <div class="position-relative bg-topstart" style="z-index: 9;">
         <nav class="navbar navbar-expand-lg bg-secondary navbar-dark py-3 py-lg-0 pl-3 pl-lg-5 bg-nav">
             <a href="" class="navbar-brand">
-                <img class="logo" src="{{asset('img/logoac2.png')}}">
+                <img class="logo" src="{{asset('img/car-rent-1.png')}}">
             </a>
             <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
                 <span class="navbar-toggler-icon"></span>

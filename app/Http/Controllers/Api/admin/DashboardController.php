@@ -3,7 +3,6 @@
 namespace App\Http\Controllers\Api\admin;
 
 use App\Http\Controllers\Controller;
-use App\Http\Resources\Client;
 use App\Models\Booking;
 use App\Models\Cars;
 use App\Models\Transactions;

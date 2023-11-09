@@ -70,7 +70,7 @@
         </div>
     </div>
     <div class="container-fluid bg-dark py-4 px-sm-3 px-md-5">
-        <p class="mb-2 text-center text-body">&copy; <a href="#">Ac transport</a>. All Rights Reserved.</p>
+        <p class="mb-2 text-center text-body">&copy; <a href="#">X transport</a>. All Rights Reserved.</p>
 
 		<!--/*** This template is free as long as you keep the footer author’s credit link/attribution link/backlink. If you'd like to use the template without the footer author’s credit link/attribution link/backlink, you can purchase the Credit Removal License from "https://htmlcodex.com/credit-removal". Thank you for your support. ***/-->
         <p class="m-0 text-center text-body">Designed by <a href="https://htmlcodex.com">Bondo programmation</a></p>
